@@ -1,0 +1,9 @@
+name: PlatinumHitDelayPatch
+main: com.platinum_mc.a248.hitdelaypatch.PlatinumHitDelayPatch
+author: A248
+version: ${project.version}
+
+commands:
+  hitdelaypatch:
+    usage: /hitdelaypatch
+    description: Main command
